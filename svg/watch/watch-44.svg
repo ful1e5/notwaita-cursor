@@ -1,0 +1,32 @@
+<svg width="256" height="257" viewBox="0 0 256 257" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1_4346)">
+<path d="M126.319 214.947C176.414 214.947 217.023 174.338 217.023 124.243C217.023 74.1487 176.414 33.5391 126.319 33.5391C76.2248 33.5391 35.6152 74.1487 35.6152 124.243C35.6152 174.338 76.2248 214.947 126.319 214.947Z" fill="#FF0000"/>
+<path d="M126.319 214.947C176.414 214.947 217.023 174.338 217.023 124.243C217.023 74.1487 176.414 33.5391 126.319 33.5391C76.2248 33.5391 35.6152 74.1487 35.6152 124.243C35.6152 174.338 76.2248 214.947 126.319 214.947Z" stroke="#0000FF" stroke-width="14.2187"/>
+</g>
+<path d="M166.6 136.707C163.541 147.179 156.644 156.111 147.285 161.718C137.926 167.324 126.796 169.192 116.118 166.948C105.439 164.704 95.9994 158.514 89.6844 149.614C83.3694 140.714 80.6443 129.76 82.0534 118.941C83.4624 108.121 88.9019 98.2333 97.2851 91.2524C105.668 84.2715 116.378 80.7118 127.274 81.2846" stroke="url(#paint0_radial_1_4346)" stroke-width="36.029" stroke-linecap="round"/>
+<path d="M91.3111 151.425C84.5335 142.876 81.2326 132.084 82.0681 121.207C82.9036 110.329 87.8138 100.167 95.8177 92.751C103.822 85.3348 114.33 81.2106 125.243 81.2025C136.155 81.1944 146.669 85.3029 154.683 92.7071C162.696 100.111 167.62 110.266 168.47 121.142C169.32 132.018 166.034 142.815 159.268 151.375" stroke="url(#paint1_radial_1_4346)" stroke-width="36.029" stroke-linecap="round"/>
+<defs>
+<filter id="filter0_d_1_4346" x="16.5059" y="15.4298" width="235.627" height="235.627" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="8" dy="9"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.6 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_4346"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_4346" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_1_4346" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(172.491 143.068) rotate(-26.9833) scale(132.604 124.591)">
+<stop stop-color="#FFFF00" stop-opacity="0"/>
+<stop offset="0.318614" stop-color="#FFFF00" stop-opacity="0.15"/>
+<stop offset="0.542702" stop-color="#FFFF00" stop-opacity="0.34"/>
+<stop offset="1" stop-color="#FFFF00"/>
+</radialGradient>
+<radialGradient id="paint1_radial_1_4346" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(82.7124 152.556) rotate(100.067) scale(65.8069 61.8301)">
+<stop stop-color="#FFFF00" stop-opacity="0"/>
+<stop offset="0.42737" stop-color="#FFFF00" stop-opacity="0"/>
+<stop offset="0.750517" stop-color="#FFFF00" stop-opacity="0.43"/>
+<stop offset="1" stop-color="#FFFF00"/>
+</radialGradient>
+</defs>
+</svg>

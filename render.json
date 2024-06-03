@@ -1,0 +1,32 @@
+{
+  "Notwaita-Black": {
+    "dir": "svg",
+    "out": "bitmaps/Notwaita-Black",
+    "colors": [
+      { "match": "#00FF00", "replace": "#000000" },
+      { "match": "#0000FF", "replace": "#FFFFFF" },
+      { "match": "#FF0000", "replace": "#000000" },
+      { "match": "#FFFF00", "replace": "#FFFFFF" }
+    ]
+  },
+  "Notwaita-Gray": {
+    "dir": "svg",
+    "out": "bitmaps/Notwaita-Gray",
+    "colors": [
+      { "match": "#00FF00", "replace": "#404040" },
+      { "match": "#0000FF", "replace": "#FFFFFF" },
+      { "match": "#FF0000", "replace": "#404040" },
+      { "match": "#FFFF00", "replace": "#FFFFFF" }
+    ]
+  },
+  "Notwaita-White": {
+    "dir": "svg",
+    "out": "bitmaps/Notwaita-White",
+    "colors": [
+      { "match": "#00FF00", "replace": "#FFFFFF" },
+      { "match": "#0000FF", "replace": "#000000" },
+      { "match": "#FF0000", "replace": "#FFFFFF" },
+      { "match": "#FFFF00", "replace": "#000000" }
+    ]
+  }
+}
