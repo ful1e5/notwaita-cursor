@@ -1,0 +1,19 @@
+<svg width="257" height="256" viewBox="0 0 257 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M126.653 214.28C176.747 214.28 217.357 173.671 217.357 123.576C217.357 73.482 176.747 32.8724 126.653 32.8724C76.5583 32.8724 35.9487 73.482 35.9487 123.576C35.9487 173.671 76.5583 214.28 126.653 214.28Z" fill="#FF0000" stroke="#0000FF" stroke-width="14.2187"/>
+<path d="M167.654 114.066C170.242 124.665 168.735 135.849 163.433 145.384C158.131 154.918 149.426 162.101 139.056 165.497C128.687 168.893 117.416 168.252 107.497 163.702C97.5785 159.152 89.7416 151.028 85.5522 140.954C81.3628 130.879 81.1294 119.596 84.8991 109.359C88.6688 99.1218 96.1637 90.6842 105.886 85.7323" stroke="url(#paint0_radial_1_4332)" stroke-width="36.029" stroke-linecap="round"/>
+<path d="M109.812 164.457C99.6677 160.442 91.4131 152.746 86.698 142.909C81.9829 133.071 81.1542 121.815 84.3777 111.391C87.6012 100.966 94.6395 92.1403 104.086 86.6769C113.533 81.2135 124.692 79.5148 135.334 81.9202C145.976 84.3255 155.318 90.6579 161.492 99.6519C167.666 108.646 170.218 119.639 168.639 130.435" stroke="url(#paint1_radial_1_4332)" stroke-width="36.0289" stroke-linecap="round"/>
+<defs>
+<radialGradient id="paint0_radial_1_4332" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(175.938 116.63) rotate(-56.9833) scale(132.604 124.591)">
+<stop stop-color="#00FF00" stop-opacity="0"/>
+<stop offset="0.318614" stop-color="#00FF00" stop-opacity="0.15"/>
+<stop offset="0.542702" stop-color="#00FF00" stop-opacity="0.34"/>
+<stop offset="1" stop-color="#00FF00"/>
+</radialGradient>
+<radialGradient id="paint1_radial_1_4332" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(102.931 169.736) rotate(70.0665) scale(65.8069 61.8301)">
+<stop stop-color="#00FF00" stop-opacity="0"/>
+<stop offset="0.42737" stop-color="#00FF00" stop-opacity="0"/>
+<stop offset="0.750517" stop-color="#00FF00" stop-opacity="0.43"/>
+<stop offset="1" stop-color="#00FF00"/>
+</radialGradient>
+</defs>
+</svg>

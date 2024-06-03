@@ -1,0 +1,19 @@
+<svg width="257" height="257" viewBox="0 0 257 257" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M126.986 214.614C177.08 214.614 217.69 174.004 217.69 123.91C217.69 73.8153 177.08 33.2057 126.986 33.2057C76.8915 33.2057 36.2819 73.8153 36.2819 123.91C36.2819 174.004 76.8915 214.614 126.986 214.614Z" fill="#FF0000" stroke="#0000FF" stroke-width="14.2187"/>
+<path d="M108.259 85.6285C118.089 80.8936 129.342 80.0429 139.77 83.2463C150.199 86.4498 159.034 93.4715 164.512 102.908C169.99 112.345 171.706 123.503 169.318 134.151C166.929 144.799 160.612 154.154 151.629 160.346C142.646 166.539 131.658 169.113 120.861 167.554C110.063 165.995 100.252 160.418 93.3869 151.938" stroke="url(#paint0_radial_1_4293)" stroke-width="36.029" stroke-linecap="round"/>
+<path d="M169.575 131.73C167.757 142.488 161.946 152.162 153.303 158.819C144.661 165.477 133.823 168.627 122.956 167.642C112.089 166.656 101.993 161.606 94.6852 153.502C87.3771 145.398 83.3954 134.836 83.5356 123.926C83.6757 113.016 87.9276 102.562 95.4413 94.6532C102.955 86.744 113.177 81.9618 124.066 81.2625" stroke="url(#paint1_radial_1_4293)" stroke-width="36.029" stroke-linecap="round"/>
+<defs>
+<radialGradient id="paint0_radial_1_4293" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(109.045 76.9931) rotate(-158.983) scale(132.604 124.591)">
+<stop stop-color="#00FF00" stop-opacity="0"/>
+<stop offset="0.318614" stop-color="#00FF00" stop-opacity="0.15"/>
+<stop offset="0.542702" stop-color="#00FF00" stop-opacity="0.34"/>
+<stop offset="1" stop-color="#00FF00"/>
+</radialGradient>
+<radialGradient id="paint1_radial_1_4293" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(176.169 137.364) rotate(-31.9335) scale(65.8069 61.8301)">
+<stop stop-color="#00FF00" stop-opacity="0"/>
+<stop offset="0.42737" stop-color="#00FF00" stop-opacity="0"/>
+<stop offset="0.750517" stop-color="#00FF00" stop-opacity="0.43"/>
+<stop offset="1" stop-color="#00FF00"/>
+</radialGradient>
+</defs>
+</svg>

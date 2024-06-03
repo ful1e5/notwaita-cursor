@@ -1,0 +1,19 @@
+<svg width="257" height="256" viewBox="0 0 257 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M35.8665 203.703V33.0359L92.2585 89.4279C103.154 80.8322 116.911 75.7026 131.866 75.7026C167.213 75.7026 195.866 104.356 195.866 139.703C195.866 175.049 167.213 203.703 131.866 203.703C105.911 203.703 83.5647 188.252 73.5226 166.046L35.8665 203.703Z" fill="#FF0000" stroke="#0000FF" stroke-width="10.6667"/>
+<path d="M113.423 166.317C106.711 161.742 101.973 154.803 100.157 146.887C98.3401 138.97 99.5784 130.659 103.624 123.614C107.67 116.569 114.225 111.309 121.979 108.885C129.734 106.461 138.118 107.052 145.454 110.539C152.791 114.026 158.541 120.152 161.556 127.694C164.57 135.237 164.627 143.639 161.714 151.222" stroke="url(#paint0_radial_1_4259)" stroke-width="21.3333" stroke-linecap="round"/>
+<path d="M120.351 109.35C127.964 106.518 136.365 106.664 143.875 109.758C151.385 112.852 157.451 118.667 160.86 126.041C164.27 133.415 164.773 141.804 162.268 149.533C159.763 157.262 154.435 163.762 147.348 167.732C140.262 171.703 131.939 172.854 124.042 170.953C116.145 169.053 109.257 164.242 104.752 157.481" stroke="url(#paint1_radial_1_4259)" stroke-width="21.3333" stroke-linecap="round"/>
+<defs>
+<radialGradient id="paint0_radial_1_4259" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(107.563 169.026) rotate(81.0168) scale(98.727 92.7612)">
+<stop stop-color="#00FF00" stop-opacity="0"/>
+<stop offset="0.318614" stop-color="#00FF00" stop-opacity="0.15"/>
+<stop offset="0.542702" stop-color="#00FF00" stop-opacity="0.34"/>
+<stop offset="1" stop-color="#00FF00"/>
+</radialGradient>
+<radialGradient id="paint1_radial_1_4259" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(121.529 103.002) rotate(-151.933) scale(48.9949 46.034)">
+<stop stop-color="#00FF00" stop-opacity="0"/>
+<stop offset="0.363816" stop-color="#00FF00" stop-opacity="0"/>
+<stop offset="0.750517" stop-color="#00FF00" stop-opacity="0.43"/>
+<stop offset="1" stop-color="#00FF00"/>
+</radialGradient>
+</defs>
+</svg>
