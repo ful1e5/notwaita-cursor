@@ -47,18 +47,18 @@ for key in "${!names[@]}"; do
   wait $PID
 done
 
-# # Building macOS Windows binaries
-# for key in "${!names[@]}"; do
-#   comment="${names[$key]}"
-#   cfg=$(get_config_file key)
-#
-#   ctgen "configs/win_rg.$cfg" -d "bitmaps/$key" -n "$key-Regular" -c "$comment Regular Windows Cursors - @ful1e5 fork" &
-#   ctgen "configs/win_lg.$cfg" -d "bitmaps/$key" -n "$key-Large" -c "$comment Large Windows Cursors - @ful1e5 fork" &
-#   ctgen "configs/win_xl.$cfg" -d "bitmaps/$key" -n "$key-Extra-Large" -c "$comment Extra Large Windows Cursors - @ful1e5 fork" &
-#   PID=$!
-#   wait $PID
-# done
-#
+# Building macOS Windows binaries
+for key in "${!names[@]}"; do
+  comment="${names[$key]}"
+  cfg=$(get_config_file key)
+
+  ctgen "configs/win_rg.$cfg" -d "bitmaps/$key" -n "$key-Regular" -c "$comment Regular Windows Cursors - @ful1e5 fork" &
+  ctgen "configs/win_lg.$cfg" -d "bitmaps/$key" -n "$key-Large" -c "$comment Large Windows Cursors - @ful1e5 fork" &
+  ctgen "configs/win_xl.$cfg" -d "bitmaps/$key" -n "$key-Extra-Large" -c "$comment Extra Large Windows Cursors - @ful1e5 fork" &
+  PID=$!
+  wait $PID
+done
+
 # Compressing Binaries
 mkdir -p bin
 cd themes || exit
@@ -75,12 +75,12 @@ tar -cJvf "../bin/macOS.tar.xz" --exclude="*-Windows" . &
 PID=$!
 wait $PID
 
-# # Compressing macOS-*-Windows
-# for key in "${!names[@]}"; do
-#   zip -rv "../bin/${key}-Windows.zip" "${key}-Regular-Windows" "${key}-Large-Windows" "${key}-Extra-Large-Windows" &
-#   PID=$!
-#   wait $PID
-# done
+# Compressing macOS-*-Windows
+for key in "${!names[@]}"; do
+  zip -rv "../bin/${key}-Windows.zip" "${key}-Regular-Windows" "${key}-Large-Windows" "${key}-Extra-Large-Windows" &
+  PID=$!
+  wait $PID
+done
 
 cd ..
 

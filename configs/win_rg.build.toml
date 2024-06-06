@@ -1,0 +1,142 @@
+[theme]
+name = 'Notwaita-Regular'
+comment = 'Notwaita Regular Windows cursors - @ful1e5 fork'
+website = 'https://github.com/ful1e5/notwaita-cursor'
+
+[config]
+bitmaps_dir = ''      # This config will assigned with `ctgen -d <path>`
+out_dir = '../themes'
+platforms = 'windows'
+
+[cursors]
+[cursors.fallback_settings]
+win_sizes = ["22:32", "32:48", "43:64", "64:96", "86:128"]
+x_hotspot = 128
+y_hotspot = 128
+win_delay = 1
+
+[cursors.all-scroll]
+png = 'move.png'
+x_hotspot = 126
+y_hotspot = 114
+win_name = 'Move'
+
+[cursors.bottom_left_corner]
+png = 'bottom_left_corner.png'
+x_hotspot = 61
+y_hotspot = 189
+win_name = 'Dng2'
+
+[cursors.bottom_right_corner]
+png = 'bottom_right_corner.png'
+x_hotspot = 192
+y_hotspot = 189
+win_name = 'Dng1'
+
+[cursors.cross]
+png = 'cross.png'
+win_name = 'Cross'
+
+[cursors.crossed_circle]
+png = 'crossed_circle.png'
+x_hotspot = 56
+y_hotspot = 17
+win_name = 'Unavailiable'
+
+[cursors.hand1]
+png = 'hand1.png'
+x_hotspot = 140
+y_hotspot = 58
+win_name = 'Pan'
+
+[cursors.hand2]
+png = 'hand2.png'
+x_hotspot = 95
+y_hotspot = 56
+win_name = 'Link'
+
+[cursors.left_ptr]
+png = 'left_ptr.png'
+x_hotspot = 36
+y_hotspot = 26
+win_name = 'Pointer'
+
+[cursors.left_ptr_watch]
+png = 'left_ptr_watch-*.png'
+x_hotspot = 36
+y_hotspot = 36
+win_sizes = "64:96"
+win_name = 'Work'
+
+[cursors.grabbing]
+png = 'dnd-none.png'
+x_hotspot = 128
+y_hotspot = 66
+win_name = 'Grabbing'
+
+[cursors.pencil]
+png = 'pencil.png'
+x_hotspot = 70
+y_hotspot = 213
+win_name = 'Handwriting'
+
+[cursors.question_arrow]
+png = 'question_arrow.png'
+x_hotspot = 121
+y_hotspot = 172
+win_name = 'Help'
+
+[cursors.right_ptr]
+png = 'right_ptr.png'
+x_hotspot = 216
+y_hotspot = 24
+win_name = 'Alternate'
+
+[cursors.sb_h_double_arrow]
+png = 'sb_h_double_arrow.png'
+x_hotspot = 126
+y_hotspot = 119
+win_name = 'Horz'
+
+[cursors.sb_v_double_arrow]
+png = 'sb_v_double_arrow.png'
+x_hotspot = 121
+y_hotspot = 123
+win_name = 'Vert'
+
+[cursors.wait]
+png = 'watch-*.png'
+x_hotspot = 127
+y_hotspot = 124
+win_sizes = "64:96"
+win_name = 'Busy'
+
+[cursors.xterm]
+png = 'xterm.png'
+x_hotspot = 110
+y_hotspot = 125
+win_name = 'Text'
+
+[cursors.zoom_in]
+png = 'zoom-in.png'
+x_hotspot = 110
+y_hotspot = 108
+win_name = 'Zoom-in'
+
+[cursors.zoom_out]
+png = 'zoom-out.png'
+x_hotspot = 110
+y_hotspot = 108
+win_name = 'Zoom-out'
+
+[cursors.person]
+png = 'person.png'
+x_hotspot = 36
+y_hotspot = 25
+win_name = 'Person'
+
+[cursors.pin]
+png = 'pin.png'
+x_hotspot = 36
+y_hotspot = 25
+win_name = 'Pin'
