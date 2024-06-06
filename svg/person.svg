@@ -1,0 +1,25 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_13_2)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M195.261 244.282L202.5 250.61L209.739 244.282L210.739 243.409C219.296 235.932 227.854 228.455 234.191 220.542C241.022 212.014 246 202.127 246 189.899C246 166.016 226.327 147 202.5 147C178.673 147 159 166.016 159 189.899C159 202.127 163.978 212.014 170.809 220.542C177.146 228.455 185.704 235.932 194.261 243.409L195.261 244.282ZM187.5 190.5C187.5 198.784 194.214 205.5 202.5 205.5C210.786 205.5 217.5 198.784 217.5 190.5C217.5 182.216 210.786 175.5 202.5 175.5C194.214 175.5 187.5 182.216 187.5 190.5Z" fill="#0000FF"/>
+<path d="M202.5 158C184.554 158 170 172.284 170 189.899C170 207.79 184.219 220.02 202.5 236C220.781 220.02 235 207.79 235 189.899C235 172.284 220.446 158 202.5 158ZM202.5 216.5C188.138 216.5 176.5 204.859 176.5 190.5C176.5 176.141 188.138 164.5 202.5 164.5C216.862 164.5 228.5 176.141 228.5 190.5C228.5 204.859 216.862 216.5 202.5 216.5Z" fill="#00FF00"/>
+<g filter="url(#filter0_d_13_2)">
+<path d="M35.2 193.036V22.3691L152.533 139.702H102.27L130.722 201.94C134.64 210.512 130.868 220.639 122.296 224.558C113.723 228.476 103.597 224.704 99.6782 216.131L72.2041 156.032L35.2 193.036Z" fill="#00FF00"/>
+<path d="M35.2 193.036V22.3691L152.533 139.702H102.27L130.722 201.94C134.64 210.512 130.868 220.639 122.296 224.558C113.723 228.476 103.597 224.704 99.6782 216.131L72.2041 156.032L35.2 193.036Z" stroke="#0000FF" stroke-width="10.6667"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_13_2" x="17.8667" y="-1.50665" width="175.542" height="261.948" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="8" dy="9"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.6 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_13_2"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_13_2" result="shape"/>
+</filter>
+<clipPath id="clip0_13_2">
+<rect width="256" height="256" fill="white"/>
+</clipPath>
+</defs>
+</svg>
