@@ -37,7 +37,7 @@ names["Notwaita-White"]=$(with_version "White Notwaita")
 # Cleanup old builds
 rm -rf themes bin
 
-# Building Apple XCursor binaries
+# Building Notwaita XCursor binaries
 for key in "${!names[@]}"; do
   comment="${names[$key]}"
   cfg=$(get_config_file key)
@@ -47,7 +47,7 @@ for key in "${!names[@]}"; do
   wait $PID
 done
 
-# Building macOS Windows binaries
+# Building Notwaita Windows binaries
 for key in "${!names[@]}"; do
   comment="${names[$key]}"
   cfg=$(get_config_file key)
@@ -69,13 +69,13 @@ for key in "${!names[@]}"; do
   wait $PID
 done
 
-# Compressing macOS.tar.xz
+# Compressing Notwaita.tar.xz
 cp ../LICENSE .
-tar -cJvf "../bin/macOS.tar.xz" --exclude="*-Windows" . &
+tar -cJvf "../bin/Notwaita.tar.xz" --exclude="*-Windows" . &
 PID=$!
 wait $PID
 
-# Compressing macOS-*-Windows
+# Compressing Notwaita-*-Windows
 for key in "${!names[@]}"; do
   zip -rv "../bin/${key}-Windows.zip" "${key}-Regular-Windows" "${key}-Large-Windows" "${key}-Extra-Large-Windows" &
   PID=$!

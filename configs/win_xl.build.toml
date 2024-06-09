@@ -17,126 +17,128 @@ win_delay = 1
 
 [cursors.all-scroll]
 png = 'move.png'
-x_hotspot = 126
-y_hotspot = 114
+x_hotspot = 133
+y_hotspot = 71
 win_name = 'Move'
 
 [cursors.bottom_left_corner]
 png = 'bottom_left_corner.png'
-x_hotspot = 61
-y_hotspot = 189
+x_hotspot = 62
+y_hotspot = 186
 win_name = 'Dng2'
 
 [cursors.bottom_right_corner]
 png = 'bottom_right_corner.png'
-x_hotspot = 192
-y_hotspot = 189
+x_hotspot = 187
+y_hotspot = 188
 win_name = 'Dng1'
 
 [cursors.cross]
 png = 'cross.png'
+x_hotspot = 114
+y_hotspot = 112
 win_name = 'Cross'
 
 [cursors.crossed_circle]
 png = 'crossed_circle.png'
-x_hotspot = 56
-y_hotspot = 17
+x_hotspot = 121
+y_hotspot = 126
 win_name = 'Unavailiable'
 
 [cursors.hand1]
 png = 'hand1.png'
-x_hotspot = 140
-y_hotspot = 58
+x_hotspot = 132
+y_hotspot = 117
 win_name = 'Pan'
 
 [cursors.hand2]
 png = 'hand2.png'
-x_hotspot = 95
-y_hotspot = 56
+x_hotspot = 93
+y_hotspot = 42
 win_name = 'Link'
 
 [cursors.left_ptr]
 png = 'left_ptr.png'
-x_hotspot = 36
-y_hotspot = 26
+x_hotspot = 37
+y_hotspot = 24
 win_name = 'Pointer'
 
 [cursors.left_ptr_watch]
 png = 'left_ptr_watch-*.png'
-x_hotspot = 36
-y_hotspot = 36
+x_hotspot = 35
+y_hotspot = 34
 win_sizes = 64
 win_name = 'Work'
 
 [cursors.grabbing]
 png = 'dnd-none.png'
-x_hotspot = 128
-y_hotspot = 66
+x_hotspot = 135
+y_hotspot = 78
 win_name = 'Grabbing'
 
 [cursors.pencil]
 png = 'pencil.png'
-x_hotspot = 70
-y_hotspot = 213
+x_hotspot = 61
+y_hotspot = 232
 win_name = 'Handwriting'
 
 [cursors.question_arrow]
 png = 'question_arrow.png'
-x_hotspot = 121
-y_hotspot = 172
+x_hotspot = 123
+y_hotspot = 61
 win_name = 'Help'
 
 [cursors.right_ptr]
 png = 'right_ptr.png'
-x_hotspot = 216
-y_hotspot = 24
+x_hotspot = 215
+y_hotspot = 25
 win_name = 'Alternate'
 
 [cursors.sb_h_double_arrow]
 png = 'sb_h_double_arrow.png'
-x_hotspot = 126
-y_hotspot = 119
+x_hotspot = 127
+y_hotspot = 118
 win_name = 'Horz'
 
 [cursors.sb_v_double_arrow]
 png = 'sb_v_double_arrow.png'
-x_hotspot = 121
-y_hotspot = 123
+x_hotspot = 120
+y_hotspot = 122
 win_name = 'Vert'
 
 [cursors.wait]
 png = 'watch-*.png'
-x_hotspot = 127
-y_hotspot = 124
+x_hotspot = 126
+y_hotspot = 126
 win_sizes = 64
 win_name = 'Busy'
 
 [cursors.xterm]
 png = 'xterm.png'
 x_hotspot = 110
-y_hotspot = 125
+y_hotspot = 119
 win_name = 'Text'
 
-[cursors.zoom_in]
+[cursors.zoom-in]
 png = 'zoom-in.png'
-x_hotspot = 110
+x_hotspot = 109
 y_hotspot = 108
 win_name = 'Zoom-in'
 
-[cursors.zoom_out]
+[cursors.zoom-out]
 png = 'zoom-out.png'
-x_hotspot = 110
+x_hotspot = 109
 y_hotspot = 108
 win_name = 'Zoom-out'
 
 [cursors.person]
 png = 'person.png'
 x_hotspot = 36
-y_hotspot = 25
+y_hotspot = 26
 win_name = 'Person'
 
 [cursors.pin]
 png = 'pin.png'
 x_hotspot = 36
-y_hotspot = 25
+y_hotspot = 26
 win_name = 'Pin'
