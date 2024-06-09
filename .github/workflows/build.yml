@@ -1,0 +1,61 @@
+name: build
+
+on:
+  push:
+    paths-ignore:
+      - "**.md"
+      - LICENSE
+      - .github/FUNDING.yml
+    branches: [main, dev]
+  pull_request:
+    paths-ignore:
+      - "**.md"
+      - LICENSE
+      - .github/FUNDING.yml
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        python-version: ["3.7", "3.8", "3.9", "3.10", "3.11", "3.12"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 16
+
+      - name: Installing Node Dependencies
+        run: |
+          rm -rf node_modules yarn.lock
+          yarn install --frozen-lockfile
+        continue-on-error: false
+
+      - name: Print cbmp version
+        run: npx cbmp --version
+
+      - name: Rendering Bitmaps
+        run: yarn render
+        continue-on-error: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+
+      - name: Installing PyPi Dependencies
+        run: python -m pip install --upgrade pip clickgen
+        continue-on-error: false
+
+      - name: Print clickgen Version
+        run: |
+          clickgen --version
+          ctgen --version
+
+      - name: Build
+        run: yarn build
