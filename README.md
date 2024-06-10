@@ -2,6 +2,8 @@
 
 A cursor theme based off of Adwaita icons from the GNOME Project (Fork).
 
+[![build](https://github.com/ful1e5/notwaita-cursor/actions/workflows/build.yml/badge.svg)](https://github.com/ful1e5/notwaita-cursor/actions/workflows/build.yml)
+
 ## Notes
 
 -   All cursor's SVG files are found in [svg](./svg) directory or you can also find them on [Figma](https://www.figma.com/design/pytcdZCnx9NwL6Ao6jFQmb/nowaita?node-id=0-1&t=aeAWgQMBcGylCJyj-1).
@@ -13,9 +15,9 @@ A cursor theme based off of Adwaita icons from the GNOME Project (Fork).
 
 ---
 
-![Notwaita Black]()
-![Notwaita White]()
-![Notwaita Gray]()
+![Notwaita Black](https://github.com/ful1e5/notwaita-cursor/assets/24286590/335b3cff-def6-484b-bf2f-140b3b38e346)
+![Notwaita Gray](https://github.com/ful1e5/notwaita-cursor/assets/24286590/196cbf29-e8bb-4c51-ac18-74cadb6ac8b9)
+![Notwaita White](https://github.com/ful1e5/notwaita-cursor/assets/24286590/59573dae-070b-4639-a735-5e9144ef2d13)
 
 ## Cursor Sizes
 
