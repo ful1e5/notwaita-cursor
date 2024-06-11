@@ -1,0 +1,19 @@
+A cursor theme inspired by the Adwaita icons from the GNOME Project for [i]Windows[/i] and [i]Linux[/i] with HiDPI Support . Original work by [url=https://gitlab.com/donut2/notwaita-cursor-theme]donut2/notwaita-cursor-theme][/url].
+
+All Notwaita cursors are meticulously crafted by hand and built using open-source tools, ensuring high quality and attention to detail. They are freely available for both Linux and Windows platforms and are distributed under an open-source license, allowing for widespread accessibility and customization.
+
+Check [url=https://github.com/ful1e5/notwaita-cursor]README.md[/url] for installation, uninstallation, personalize cursor sizes or colors.
+
+[b]Notice:[/b]
+Since the 'pling-factor' on the website has decreased and monthly payments are <500$, This project is now dependent on community funding and sponsorships. If you would like to help me maintain this project and my other open-source cursors actively, consider sponsoring just [i]1$/month[/i] or more on [url=https://github.com/sponsors/ful1e5]GitHub Sponsors[/url], I will gladly look into it and post your avatar in the README.
+
+[b]XCursor Sizes:[/b]
+16x16, 20x20, 22x22, 24x24, 28x28, 32x32, 40x40, 48x48, 56x56, 64x64, 72x72, 80x80, 88x88, 96x96
+
+[b]Windows Cursor Size:[/b]
+- 22,32,43,64,86,171 - Regular
+- 26,39,52,77,103,205 - Large
+- 32,48,64,96,128,256 - Extra Large
+
+[b]License & Terms:[/b]
+'notwaita-cursor' is available under the terms of the 'LGPL-3.0-or-later' license.

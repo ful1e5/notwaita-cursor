@@ -1,6 +1,6 @@
 # Notwaita Cursor Theme
 
-A cursor theme based off of Adwaita icons from the GNOME Project (Fork).
+A cursor theme inspired by the Adwaita icons from the GNOME Project for `Windows` and `Linux` with _HiDPI_ support. Original work by [donut2/notwaita-cursor-theme](https://gitlab.com/donut2/notwaita-cursor-theme).
 
 [![build](https://github.com/ful1e5/notwaita-cursor/actions/workflows/build.yml/badge.svg)](https://github.com/ful1e5/notwaita-cursor/actions/workflows/build.yml)
 
