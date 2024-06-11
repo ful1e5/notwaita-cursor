@@ -9,6 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [v1.0.0-alpha1] - 11 June 2024
 
+### What's New?
+
+-   Initial release 🎊
+-   Logo and badges
+-   CI/CD Pipelines
+
+## [v1.0.0-alpha1] - 11 June 2024
+
 ### Added
 
 -   Initial release 🎊
