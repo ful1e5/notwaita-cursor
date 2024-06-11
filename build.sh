@@ -1,7 +1,7 @@
 #!/bin/bash
 # A script for preparing binaries of Notwaita Cursors, created by Abdulkaiz Khatri.
 
-version="v1.0.0"
+version="v1.0.0-alpha1"
 
 error() (
   set -o pipefail
